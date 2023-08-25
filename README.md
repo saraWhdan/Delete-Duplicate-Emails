@@ -4,7 +4,7 @@
 Problem Link: https://leetcode.com/problems/delete-duplicate-emails/description/?envType=study-plan-v2&envId=top-sql-50
 
 ## Solution
-- wth join
+- with join
 ```sql
 DELETE P2
 FROM Person p1
